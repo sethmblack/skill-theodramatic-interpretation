@@ -4,7 +4,7 @@ description: Analyze situations as dramatic performances with given roles, unfol
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5166
+  version: 1.0.5167
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - theodramatic-interpretation
